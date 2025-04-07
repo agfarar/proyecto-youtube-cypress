@@ -1,0 +1,2 @@
+Ejecuta:  
+```npx cypress open```
